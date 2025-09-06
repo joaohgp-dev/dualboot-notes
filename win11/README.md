@@ -1,0 +1,20 @@
+# Windows 11
+
+## Introdução
+
+Esta seção agrupa os tópicos do **Windows 11** no ambiente de *dual boot* com **Arch Linux**. Serão abordados os passos necessários para preparar, instalar e configurar o sistema operacional.
+
+## Objetivos
+
+- **Arquivo de resposta**: Configurar um arquivo de resposta `autounattend.xml` para modificar a instalação e otimizar processos.
+- **Mídia de instalação**: Criar um dispositivo USB bootável com o Windows 11.
+- **Instalar o Windows 11**: Realizar a instalação do sistema operacional, levando em consideração etapas realizadas na pré-instalação.
+- **Configurar o sistema**: Ajustar as configurações do Windows 11 e instalar softwares desejados.
+
+**Sumário**
+
+* [Introdução](./README.md#introdução): Introdução da seção do Windows 11.
+* [Objetivos](./README.md#objetivos): Metas a serem alcançadas.
+* [Pré-instalação](./0-pre-install/): Uso de `autounattend.xml` para modificar a instalação, preparo da mídia de instalação do Windows 11.
+* [Instalação](./1-installation/): Instalação do Windows 11 considerando as etapas realizadas na pré-instalação.
+* [Pós-instalação](./2-post-install/): Configurações de sistema, instalação e configuração de softwares.
