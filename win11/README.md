@@ -15,6 +15,6 @@ Esta seção agrupa os tópicos do **Windows 11** no ambiente de *dual boot* com
 
 * [Introdução](./README.md#introdução): Introdução da seção do Windows 11.
 * [Objetivos](./README.md#objetivos): Metas a serem alcançadas.
-* [Pré-instalação](./0-pre-install/): Uso de `autounattend.xml` para modificar a instalação, preparo da mídia de instalação do Windows 11.
-* [Instalação](./1-installation/): Instalação do Windows 11 considerando as etapas realizadas na pré-instalação.
-* [Pós-instalação](./2-post-install/): Configurações de sistema, instalação e configuração de softwares.
+* [Pré-instalação](./0-pre-install/README.md): Uso de `autounattend.xml` para modificar a instalação, preparo da mídia de instalação do Windows 11.
+* [Instalação](./1-installation/README.md): Instalação do Windows 11 considerando as etapas realizadas na pré-instalação.
+* [Pós-instalação](./2-post-install/README.md): Configurações de sistema, instalação e configuração de softwares.
