@@ -19,7 +19,7 @@ A navegação entre arquivos conta com o auxílio de um sumário em todos os arq
 * [Referências](./README.md#referências): Lista de referências utilizadas.
 
 [Windows 11](./win11/README.md)
-* [Pré-instalação](./win11/0-pre-install/): O uso de `autounattend.xml` para modificar a instalação, preparo da mídia de instalação do Windows 11.
+* [Pré-instalação](./win11/0-pre-install/): Preparo da mídia de instalação do Windows 11, configuração do arquivo `autounattend.xml`.
 * [Instalação](./win11/1-installation/): Instalação do Windows 11 considerando as etapas realizadas na pré-instalação.
 * [Pós-instalação](./win11/2-post-install/): Configurações de sistema, instalação e configuração de softwares.
 
