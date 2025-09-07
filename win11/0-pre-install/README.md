@@ -14,7 +14,7 @@ Esta seção engloba os procedimentos realizados na pré-instalação do **Windo
 * [Introdução](./README.md#introdução): Introdução da seção do Windows 11.
 * [Objetivos](./README.md#objetivos): Metas a serem alcançadas.
 * [Mídia de instalação](./README.md#mídia-de-instalação): Instruções para o preparo da mídia de instalação.
-* [Arquivo de resposta](./README.md#arquivo-de-respota): 
+* [Arquivo de resposta](./README.md#arquivo-de-respota): Instruções para a configuração do arquivo `autounattend.xml`.
 * [Referências](./README.md#referências): Lista de referências.
 
 ## Mídia de instalação
