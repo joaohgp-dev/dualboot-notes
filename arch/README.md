@@ -6,9 +6,9 @@ Esta seção agrupa os tópicos do **Arch Linux** no ambiente de *dual boot* com
 
 ## Objetivos
 
-- **Preparação da mídia**: Criar um dispositivo USB bootável com a imagem do Arch Linux.
-- **Instalação do Arch Linux**: Realizar a instalação do sistema operacional.
-- **Configuração do sistema**: Instalar e configurar softwares essenciais.
+* **Preparação da mídia**: Criar um dispositivo USB bootável com a imagem do Arch Linux.
+* **Instalação do Arch Linux**: Realizar a instalação do sistema operacional.
+* **Configuração do sistema**: Instalar e configurar softwares essenciais.
 
 **Sumário**
 
