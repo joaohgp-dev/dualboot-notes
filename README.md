@@ -19,14 +19,14 @@ A navegação entre arquivos conta com o auxílio de um sumário em todos os arq
 * [Referências](./README.md#referências): Lista de referências utilizadas.
 
 [Windows 11](./win11/README.md)
-* [Pré-instalação](./win11/0-pre-install/): Preparo da mídia de instalação do Windows 11, configuração do arquivo `autounattend.xml`.
-* [Instalação](./win11/1-installation/): Instalação do Windows 11 considerando as etapas realizadas na pré-instalação.
-* [Pós-instalação](./win11/2-post-install/): Configurações de sistema, instalação e configuração de softwares.
+* [Pré-instalação](./win11/0-pre-install/README.md): Preparo da mídia de instalação do Windows 11, configuração do arquivo `autounattend.xml`.
+* [Instalação](./win11/1-installation/README.md): Instalação do Windows 11 considerando as etapas realizadas na pré-instalação.
+* [Pós-instalação](./win11/2-post-install/README.md): Configurações de sistema, instalação e configuração de softwares.
 
 [Arch Linux](./arch/README.md)  
-* [Pré-instalação](./arch/0-pre-install/): Recomendações gerais, preparo da mídia de instalação do Arch Linux.
-* [Instalação](./arch/1-installation/): Instalação do Arch Linux considerando as etapas realizadas na pré-instalação.
-* [Pós-instalação](./arch/2-post-install/): Configurações de sistema, instalação e configuração de softwares.
+* [Pré-instalação](./arch/0-pre-install/README.md): Recomendações gerais, preparo da mídia de instalação do Arch Linux.
+* [Instalação](./arch/1-installation/README.md): Instalação do Arch Linux considerando as etapas realizadas na pré-instalação.
+* [Pós-instalação](./arch/2-post-install/README.md): Configurações de sistema, instalação e configuração de softwares.
 
 ## Licença
 

@@ -20,7 +20,7 @@ Esta seção engloba os procedimentos realizados na pré-instalação do **Windo
 ## Mídia de instalação
 
 O primeiro passo é baixar o arquivo de imagem do Windows 11 e preparar um dispositívo USB. A imagem original está disponível na [página de download](#página-de-download-do-windows-11) da Microsoft.  
-O segundo passo é baixar e instalar um software que prepare a mídia de instalação USB, geralmente um pen drive. Exemplos de software para Windows são o [**Microsoft Media Tool**](#página-de-donwload-do-windows-11) e [**Rufus**](#página-do-rufus), para Linux o [**WoeUSB**](#página-do-woeusb).
+O segundo passo é baixar e instalar um software que prepare a mídia de instalação USB, geralmente um pen drive. Exemplos de software para Windows são o [**Microsoft Media Tool**](#página-de-download-do-windows-11) e [**Rufus**](#página-do-rufus), para Linux o [**WoeUSB**](#página-do-woeusb).
 
 > [!WARNING]  
 > Para evitar conflitos, não utilize as opções avançadas do **Rufus**, visto que posteriormente usaremos outro método para personalizar a instalação.
@@ -33,9 +33,8 @@ O arquivo `autounattend.xml` ou `unattend.xml`, é um método oficial para reali
 
 > [!CAUTION]  
 > Em um ambiente de *dual boot* certas medidas de segurança são necessárias. Confira os seguintes tópicos da Arch Wiki para mais informações:
-> * [Inicialização rápida e hibernação](https://wiki.archlinux.org/title/Dual_boot_with_Windows#Fast_Startup_and_hibernation)
-> * [Hibernação e sistemas multiboot](https://wiki.archlinux.org/title/EFI_system_partition#Hibernation_and_multi_boot_systems)
->
+> * [Inicialização rápida e hibernação](./README.md#página-da-arch-wiki-sobre-inicialização-rápida-e-hibernação)
+> * [Hibernação e sistemas multiboot](./README.md#página-da-arch-wiki-sobre-hibernação-e-sistemas-multi-boot)
 > **SEM AS MEDIDAS CORRETAS, HÁ RISCO DE CORRUPÇÃO DO SISTEMA**.
 
 Após configurar, baixe o arquivo e salve em local seguro, em seguida faça uma cópia para o diretório raiz da mídia de instalação.
@@ -56,4 +55,4 @@ https://wiki.archlinux.org/title/EFI_system_partition#Hibernation_and_multi_boot
 #### Página do Microsoft learn sobre arquivos de resposta
 https://learn.microsoft.com/pt-br/windows-hardware/manufacture/desktop/update-windows-settings-and-scripts-create-your-own-answer-file-sxs?view=windows-11
 #### Página do Schneegans autounattend.xml generator
-https://schneegans.de/windows/unattend-generator/?
+https://schneegans.de/windows/unattend-generator/
