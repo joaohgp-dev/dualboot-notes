@@ -14,7 +14,7 @@ Esta seção engloba os procedimentos realizados na pré-instalação do **Windo
 * [Introdução](./README.md#introdução): Introdução da seção do Windows 11.
 * [Objetivos](./README.md#objetivos): Metas a serem alcançadas.
 * [Mídia de instalação](./README.md#mídia-de-instalação): Instruções para o preparo da mídia de instalação.
-* [Arquivo de resposta](./README.md#arquivo-de-respota): Instruções para a configuração do arquivo `autounattend.xml`.
+* [Arquivo de resposta](./README.md#arquivo-de-resposta): Instruções para a configuração do arquivo `autounattend.xml`.
 * [Referências](./README.md#referências): Lista de referências.
 
 ## Mídia de instalação
@@ -27,7 +27,7 @@ O segundo passo é baixar e instalar um software que prepare a mídia de instala
 
 O terceiro passo é utilizar o software escolhido para preparar uma mídia de instalação do Windows 11.  
 
-## Arquivo de respota
+## Arquivo de resposta
 
 O arquivo `autounattend.xml` ou `unattend.xml`, é um método oficial para realizar modificações em instalações de Windows, mais detalhes podem ser encontrados na [página do Microsoft Learn](#página-do-microsoft-learn-sobre-arquivos-de-resposta) referente ao tópico. Estarei utilizando o [Schneegans autounattend.xml generator](#página-do-schneegans-autounattendxml-generator) para gerar esse arquivo.
 
